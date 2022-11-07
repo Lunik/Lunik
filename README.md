@@ -1,6 +1,6 @@
 ### ¡ Holà !
 
-[WALL OF FAME](https://lunik.tiwabbit.fr/wof/)
+[WALL OF FAME (click to see contribution that I'm proud of)](https://lunik.tiwabbit.fr/wof/)
 
 ┻━┻ ︵ヽ(`Д´)ﾉ︵﻿ ┻━┻
 
