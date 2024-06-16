@@ -55,21 +55,6 @@ jobs:
           plugin_achievements_secrets: yes
           # Minimal rank to display
           plugin_achievements_threshold: C
-          
-          # 📰 Recent activity
-          #plugin_activity: yes
-          # Filter events by age
-          #plugin_activity_days: 14
-          # Filter events by type
-          #plugin_activity_filter: all
-          # Maximum umber of activity events to display
-          #plugin_activity_limit: 5
-          # Number of activity events to load
-          #plugin_activity_load: 300
-          # Set events visibility
-          #plugin_activity_visibility: all
-          # Display events timestamps
-          #plugin_activity_timestamps: yes
 
           # 💡 Coding habits
           plugin_habits: yes
@@ -83,18 +68,13 @@ jobs:
           # 💝 GitHub Sponsorships
           plugin_sponsorships: yes
           
-          # 📅 Isometric commit calendar
-          #plugin_isocalendar: yes
-          # Set time window shown by isometric calendar
-          #plugin_isocalendar_duration: half-year
-          
           # 🈷️ Most used languages
           plugin_languages: yes
           plugin_languages_colors: github
           # Number of languages to display
           plugin_languages_limit: 0
           # Filter events by age (for recently used languages statistics)
-          plugin_languages_recent_days: 30
+          plugin_languages_recent_days: 360
           # Number of activity events to load (for recently used languages statistics)
           plugin_languages_recent_load: 500
           # Sections to display
@@ -116,4 +96,6 @@ jobs:
           plugin_introduction: yes
           # Display introduction section title
           plugin_introduction_title: yes
+
+          plugin_notable: yes
         
